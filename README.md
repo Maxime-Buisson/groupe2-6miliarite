@@ -38,9 +38,15 @@ Bienvenue sur le repo du groupe 2 du challenge 6miliarité!
     - python -m venv .venv
     - pip install -r requirements.txt
 
-    Then you should be good to use the jupyter notebook!
+    Then you should be good to use the jupyter notebook (notebook.ipynb)!
     Note: If you don't want to use Kaggle to download the dataset
     You can do it manually and store it in a data folder 
+
+    Pre runnned Notebook:
+    
+    The notebook "pre_runned_notebook_kaggle" has all the executed
+    cells allowing you to simply browse our results. If you execute
+    it, it will only work within the Kaggle file structure.
 
 
 ## 📖 Dataset: <a name="dataset"></a>
